@@ -328,5 +328,7 @@ This project is part of a data engineering portfolio demonstration.
 ## 👤 Author
 
 **Project:** Airbnb Data Engineering Pipeline
+
 **Technologies:** Snowflake, dbt, AWS, Python
+
 **Author:** Václav Benda
